@@ -3,8 +3,16 @@ img {
 }
 body{
     text-align: center;
-    background: color(srgbblue)
+    background: black;
+    color: azure;
 }
 font{
     font-family: 'Arial';
+}
+button{
+    text-align:center;
+    
+}
+footer{
+    text-align: bottom;
 }
